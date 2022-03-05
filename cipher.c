@@ -1,9 +1,5 @@
-/******************************************************************************
-Group Names:	Nicholas Spudich
-			    Andrew Spate
-			    Kelli Huff
+/*****************************************************************************
 
-Professor:		Dr. Chen, W.
 Class:			CET 440: Computer Networking
 Assignment:		Lab Assignment 3
 Date:			9/16/2021
